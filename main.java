@@ -1,1 +1,1 @@
-public class Main { public static void main(String[] args) { System.out.println("정승민"); World.run();} }
+public class Main { public static void main(String[] args) { System.out.println("정승민"); World.run();World.run2();} }
